@@ -85,4 +85,31 @@ body{
         margin-bottom: 60px;
     }
     /* our donate plan section */
+    .container{
+        display:flex;
+        margin-left: 400px;
+        margin-right: 100px;
+        gap: 50px;
+       
+       
+    }
+    .collect-money{
+        height: 360px;
+        width: 352px;
+        border: 3px solid lightcoral;
+        background-color: rgb(245, 158, 158);
+        padding: 10px;
+        border: 0;
+    }
+    .light-gray{
+        background-color: lightgray;
+
+    }
+    .light-coral{
+        border: lightcoral;
+    }
+    .light-yellow{
+        background-color: lightyellow;
+    }
+ 
 
